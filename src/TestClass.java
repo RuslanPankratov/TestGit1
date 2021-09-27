@@ -5,5 +5,7 @@ public class TestClass {
         System.out.println("Ruslan");
         System.out.println("Du");
         System.out.println("G");
+
+        System.out.println("546");
     }
 }
